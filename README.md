@@ -10,7 +10,7 @@ line to your composer.json file
 
     {
         "require": {
-        	"sema/minifier-bundle": "dev-master"
+        	"kepek/minifier-bundle": "dev-master"
         }
     }
 
@@ -19,7 +19,7 @@ Then update the vendor libraries:
 ```shell
 composer.phar update
 # OR
-composer.phar update sema/minifier-bundle # to only update the bundle
+composer.phar update kepek/minifier-bundle # to only update the bundle
 ```
 
 

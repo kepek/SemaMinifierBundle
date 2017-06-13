@@ -1,5 +1,5 @@
 {
-    "name": "sema/minifier-bundle",
+    "name": "kepek/minifier-bundle",
     "type": "symfony-bundle",
     "description": "This bundle allows you to minify html code, combine and minify JavaScript files and CSS files without Java VM.",
     "keywords": ["Symfony2", "bundle", "minify"],
